@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Kimbing Ng (吴剑兵)
-logo: head.jpeg # You can add own logo.
+#logo: head.jpeg # You can add own logo.
 description: description
 
 
@@ -9,9 +9,9 @@ description: description
 # Author Settings
 author:
   name: Kimbing Ng
-  image: 02.jpg
-  say-hello: Hello, I’m <strong>Kimbing Ng</strong>
-  bio: #Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
+  image: head.jpeg
+  say-hello: Hi, I’m <strong>Kimbing Ng (吴剑兵)</strong>
+  #bio: Designs, talks, and writes about <strong>web</strong>, <strong>ethics</strong>, <strong>privacy</strong>, and dev. I share design tutorials, free resources and inspiration. Loves <a href="#">music</a> & riding his bicycle.
 
 
 #-------------------------------
